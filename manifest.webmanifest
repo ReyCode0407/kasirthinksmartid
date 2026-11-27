@@ -1,0 +1,26 @@
+{
+ "name": "Kasir – Percetakan Online Indonesia",
+ "short_name": "Kasir PO",
+ "description": "Kasir, keuangan, dan pengeluaran Percetakan Online Indonesia",
+ "lang": "id",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#fff4ee",
+ "theme_color": "#ff6a1a",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
